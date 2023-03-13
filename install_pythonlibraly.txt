@@ -1,0 +1,8 @@
+pip install numpy 
+pip install scikit-learn
+pip install matplotlib
+pip install seaborn
+pip install Flask
+pip install selenium
+pip install requests
+pip install tqdm
